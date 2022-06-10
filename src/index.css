@@ -1,13 +1,19 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&family=Quicksand:wght@300;400;500;600;700&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*{
+  font-family: 'Nuosu SIL', serif;
+}
+.scatter-plot h1, .bar-chart h1{
+  text-align: center;
+  font-size: 45px;
+  font-weight: 600;
+}
+.scatter-plot h3 , .bar-chart h3{
+  font-size: 18px;
+  text-align: center;
+  font-weight: 400;
+}
+.bar-chart{
+  margin-top: 35px;
 }
