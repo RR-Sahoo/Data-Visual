@@ -39,12 +39,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-# Output
+### Output
 
-  Bar chart
+  # Bar chart
   ![Bar Chart](https://user-images.githubusercontent.com/77088143/173197191-b79cd8bd-ca48-4be3-b4fc-03ced6424f52.jpg)
   
-  Scatter Plot 
+  # Scatter Plot 
   ![Scatter Plot](https://user-images.githubusercontent.com/77088143/173197215-cbc5cc17-bbbf-45c8-bc51-3001aad8bbdf.jpg)
 
 
